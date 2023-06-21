@@ -21,7 +21,7 @@
     "express-handlebars": "^5.2.0",
     "express-hbs": "^2.3.4",
     "hbs": "^4.1.1",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.17",
     "pg": "^8.5.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
