@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
-    "express-hbs": "^2.3.4",
+    "express-hbs": "^2.3.5",
     "hbs": "^4.1.1",
     "nodemon": "^2.0.6",
     "pg": "^8.5.1",
